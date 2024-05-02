@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+#image-info {
+  margin-bottom: 20px;
+}
+
+#like-button {
+  background-color: #0077b6;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#like-counter {
+  margin-left: 10px;
+}
